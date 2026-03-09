@@ -1,6 +1,9 @@
 name: clean_arch_getx_cli
 description: A CLI tool to generate Flutter + GetX Clean Architecture projects and modules in one command.
 version: 1.0.0
+homepage: https://github.com/yusufkrrt/clean_arch_getx_cli
+repository: https://github.com/yusufkrrt/clean_arch_getx_cli
+issue_tracker: https://github.com/yusufkrrt/clean_arch_getx_cli/issues
 
 topics:
   - flutter

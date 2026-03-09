@@ -43,17 +43,14 @@ lib/
 ### Option 1: Install globally via `dart pub global activate`
 
 ```bash
-dart pub global activate --source path C:\path\to\flutter-template
+dart pub global activate clean_arch_getx_cli
 ```
 
-### Option 2: Add compiled exe to PATH (Windows)
+### Option 2: Install from GitHub source
 
-Run the install script:
-```powershell
-.\install.ps1
+```bash
+dart pub global activate --source git https://github.com/yusufkrrt/clean_arch_getx_cli
 ```
-
-Or manually copy `bin\getx_cli.exe` to a directory that is in your `PATH`.
 
 ## 🛠 Usage
 
