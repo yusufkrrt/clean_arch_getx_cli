@@ -1,0 +1,16 @@
+# Compiled binaries
+bin/*.exe
+bin/*.snapshot
+
+# Test & dev artifacts
+cli_deneme/
+test_*/
+*.log
+
+# IDE
+.dart_tool/
+.idea/
+.vscode/
+
+# Build
+build/
